@@ -1,0 +1,33 @@
+#logo{
+    font-family: 'Indie Flower', cursive;
+    font-style: bold;
+
+}
+.textonimage{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 50%;
+    color: aliceblue;
+    font-size: 30px;
+    
+    
+}
+#toprow{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#bottomrow{
+  padding-bottom: 20px;  
+}
+#map{
+    height: 400px;
+    
+}
+#social_media1{
+  background-color:beige
+}
+#social_media{
+  background-color:darkseagreen
+}
